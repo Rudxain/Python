@@ -152,6 +152,7 @@
     * [Fenwick Tree](data_structures/binary_tree/fenwick_tree.py)
     * [Lazy Segment Tree](data_structures/binary_tree/lazy_segment_tree.py)
     * [Lowest Common Ancestor](data_structures/binary_tree/lowest_common_ancestor.py)
+    * [Maximum Fenwick Tree](data_structures/binary_tree/maximum_fenwick_tree.py)
     * [Merge Two Binary Trees](data_structures/binary_tree/merge_two_binary_trees.py)
     * [Non Recursive Segment Tree](data_structures/binary_tree/non_recursive_segment_tree.py)
     * [Number Of Possible Binary Trees](data_structures/binary_tree/number_of_possible_binary_trees.py)
@@ -229,6 +230,7 @@
     * [Convolve](digital_image_processing/filters/convolve.py)
     * [Gabor Filter](digital_image_processing/filters/gabor_filter.py)
     * [Gaussian Filter](digital_image_processing/filters/gaussian_filter.py)
+    * [Local Binary Pattern](digital_image_processing/filters/local_binary_pattern.py)
     * [Median Filter](digital_image_processing/filters/median_filter.py)
     * [Sobel Filter](digital_image_processing/filters/sobel_filter.py)
   * Histogram Equalization
@@ -858,6 +860,8 @@
     * [Sol1](project_euler/problem_114/sol1.py)
   * Problem 115
     * [Sol1](project_euler/problem_115/sol1.py)
+  * Problem 116
+    * [Sol1](project_euler/problem_116/sol1.py)
   * Problem 119
     * [Sol1](project_euler/problem_119/sol1.py)
   * Problem 120
@@ -982,6 +986,7 @@
   * [Recursive Quick Sort](sorts/recursive_quick_sort.py)
   * [Selection Sort](sorts/selection_sort.py)
   * [Shell Sort](sorts/shell_sort.py)
+  * [Shrink Shell Sort](sorts/shrink_shell_sort.py)
   * [Slowsort](sorts/slowsort.py)
   * [Stooge Sort](sorts/stooge_sort.py)
   * [Strand Sort](sorts/strand_sort.py)
@@ -1003,6 +1008,7 @@
   * [Check Pangram](strings/check_pangram.py)
   * [Credit Card Validator](strings/credit_card_validator.py)
   * [Detecting English Programmatically](strings/detecting_english_programmatically.py)
+  * [Dna](strings/dna.py)
   * [Frequency Finder](strings/frequency_finder.py)
   * [Hamming Distance](strings/hamming_distance.py)
   * [Indian Phone Validator](strings/indian_phone_validator.py)
